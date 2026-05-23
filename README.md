@@ -31,16 +31,9 @@ Stealth Intelligence Framework for Termux/Linux
 ## Installation
 
 ```bash
-git clone https://github.com/SEUUSER/PHANTOM.git
-cd PHANTOM
+git clone https://github.com/venceuthegod/Phantom.git
+cd Phantom
 bash install.sh
-```
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Usage
-
-```bash
 python phantom.py
 ```
 
@@ -91,6 +84,5 @@ PHANTOM is an educational OSINT framework focused on defensive cybersecurity, pu
 
 ## Author
 
-PHANTOM Framework
-
+Phantom Tools
 Created by: VenceuTheGod

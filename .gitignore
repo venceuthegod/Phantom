@@ -1,0 +1,20 @@
+# Reports
+reports/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Termux
+.termux/
+
+# Logs
+*.log
+
+# Temp Files
+tmp/
+temp/
+
+# OS Files
+.DS_Store
+Thumbs.db

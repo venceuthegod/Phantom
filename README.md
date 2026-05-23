@@ -9,7 +9,7 @@
 
 Stealth Intelligence Framework for Termux/Linux
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Features
 
@@ -26,7 +26,7 @@ Stealth Intelligence Framework for Termux/Linux
 - URL Crawler
 - Report Generator
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Installation
 
@@ -37,7 +37,7 @@ bash install.sh
 python phantom.py
 ```
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Update
 
@@ -46,7 +46,7 @@ git pull
 bash update.sh
 ```
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Reports
 
@@ -56,7 +56,7 @@ All generated reports are automatically saved in:
 reports/
 ```
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Technologies
 
@@ -68,19 +68,19 @@ reports/
 - Socket
 - OSINT Techniques
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Screenshot
 
-![PHANTOM](menu.jpg)
+![PHANTOM](screenshots/menu.jpg)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Educational Purpose
 
 PHANTOM is an educational OSINT framework focused on defensive cybersecurity, public intelligence gathering and ethical research.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Author
 
